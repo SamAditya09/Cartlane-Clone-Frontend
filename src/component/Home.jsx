@@ -298,17 +298,17 @@ const Home = () => {
           <div className="carousel-item active" style={{ padding: "50px", textAlign: "center", background: "rgb(255, 70, 101)" }}>
             <i className="fab fa-instagram" style={{ fontSize: "25px" }}></i>
             <p style={{ padding: "10px" }}>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi unde eveniet suscipit, nesciunt asperiores doloribus ipsum minus consectetur perspiciatis numquam quibusdam voluptates sed delectus odio."</p>
-            <h5>~ @_dream_hacker_</h5>
+            <h5>~Team_Bro_Code</h5>
           </div>
           <div className="carousel-item" style={{ padding: "50px", textAlign: "center", background: "rgb(255, 70, 101)" }}>
             <i className="fab fa-instagram" style={{ fontSize: "25px" }}></i>
             <p style={{ padding: "10px" }}>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi unde eveniet suscipit, nesciunt asperiores doloribus ipsum minus consectetur perspiciatis numquam quibusdam voluptates sed delectus odio."</p>
-            <h5>~ @_dream_hacker_</h5>
+            <h5>~Team_Bro_Code</h5>
           </div>
           <div className="carousel-item" style={{ padding: "50px", textAlign: "center", background: "rgb(255, 70, 101)" }}>
             <i className="fab fa-instagram" style={{ fontSize: "25px" }}></i>
             <p style={{ padding: "10px" }}>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi unde eveniet suscipit, nesciunt asperiores doloribus ipsum minus consectetur perspiciatis numquam quibusdam voluptates sed delectus odio."</p>
-            <h5>~ @_dream_hacker_</h5>
+            <h5>~Team_Bro_Code</h5>
           </div>
         </div>
       </div>

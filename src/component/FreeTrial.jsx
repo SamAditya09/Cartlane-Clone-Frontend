@@ -111,19 +111,19 @@ function FreeTrial() {
           <div className="carousel-item active" style={{ padding: "50px", textAlign: "center", background: "rgb(255, 70, 101)" }}>
             <h2>Hear it from Our Customers</h2>
             <i className='fa fa-quote-left' style={{ padding: "20px", fontSize: "40px", color: "purple" }}></i>
-            <h5>~ @_dream_hacker_</h5>
+            <h5>~Team_Bro_Code</h5>
             <p style={{ padding: "10px" }}>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi unde eveniet suscipit, nesciunt asperiores doloribus ipsum minus consectetur perspiciatis numquam quibusdam voluptates sed delectus odio."</p>
           </div>
           <div className="carousel-item" style={{ padding: "50px", textAlign: "center", background: "rgb(255, 70, 101)" }}>
             <h2>Hear it from Our Customers</h2>
             <i className='fa fa-quote-left' style={{ padding: "20px", fontSize: "40px", color: "purple" }}></i>
-            <h5>~ @_dream_hacker_</h5>
+            <h5>~Team_Bro_Code</h5>
             <p style={{ padding: "10px" }}>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi unde eveniet suscipit, nesciunt asperiores doloribus ipsum minus consectetur perspiciatis numquam quibusdam voluptates sed delectus odio."</p>
           </div>
           <div className="carousel-item" style={{ padding: "50px", textAlign: "center", background: "rgb(255, 70, 101)" }}>
             <h2>Hear it from Our Customers</h2>
             <i className='fa fa-quote-left' style={{ padding: "20px", fontSize: "40px", color: "purple" }}></i>
-            <h5>~ @_dream_hacker_</h5>
+            <h5>~Team_Bro_Code</h5>
             <p style={{ padding: "10px" }}>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi unde eveniet suscipit, nesciunt asperiores doloribus ipsum minus consectetur perspiciatis numquam quibusdam voluptates sed delectus odio."</p>
           </div>
         </div>
